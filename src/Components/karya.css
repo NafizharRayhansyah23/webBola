@@ -1,0 +1,17 @@
+/* @font-face{
+    font-family: akira;
+    src: url(akira.otf);
+    }
+    
+    h2 {
+        font-family: akira;
+        color: white;
+        width: fit-content;
+     }
+    .yok{
+        background-image: url('image/cantona.jpg');
+         background-repeat: no-repeat;   
+        background-attachment:local;
+         margin: auto;
+         background-size: 100%;
+    } */

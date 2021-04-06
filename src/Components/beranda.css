@@ -1,0 +1,22 @@
+@font-face{
+font-family: akira;
+src: url(akira.otf);
+}
+
+.azka {
+    font-family: akira;
+    color: white;
+    width: fit-content;
+    text-decoration: ;
+    font-weight: ;
+    
+ }
+.bag{
+    background-image: url('image/arlnod.jpg');
+     background-repeat: no-repeat;   
+    background-attachment:local;
+     margin: auto;
+     background-size: 100%;
+}
+
+
